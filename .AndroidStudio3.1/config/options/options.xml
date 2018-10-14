@@ -1,0 +1,85 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="AndroidInitConfigurator.V4" value="true" />
+    <property name="AndroidInitConfigurator.V3" value="true" />
+    <property name="AndroidInitConfigurator.V1" value="true" />
+    <property name="AndroidInitConfigurator.V2" value="true" />
+    <property name="android-component-compatibility-check" value="1539304950226" />
+    <property name="SAVED_COMPANY_DOMAIN" value="com.testproject" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Desktop/AndroidTest&#10;D:/Raheel Data/Kotlin/Kotlin Projects&#10;D:/ReactNativeWorkstudio/CrossingStudio/android&#10;D:/Raheel Data/Kotlin/Kotlin Projects/DinnerDecider&#10;D:/Raheel Data/Kotlin/Kotlin Projects/AxiomTaskOne&#10;C:/Users/pakistan/Downloads/FacebookLite/FacebookLite_v94.0.0.8.182_apkpure.com_source_from_JADX/android&#10;D:/Raheel Data/Kotlin/Kotlin Projects/Pets Adopter&#10;C:/Users/pakistan/Desktop&#10;D:/AndroidStudioProjects/TestProjectssss/testRunningServicesBackgroundRelaunched&#10;D:/AndroidStudioProjects/Miwok&#10;D:/AndroidStudioProjects/ud839_Miwok-Starter-code&#10;D:/AndroidStudioProjects/MiwokAgain&#10;D:/AndroidStudioProjects/RBChatApp&#10;D:/AndroidStudioProjects/TestProjectssss/android-pedometer-master&#10;D:/AndroidStudioProjects/Graph library/MPAndroidChart-master&#10;D:/AndroidStudioProjects&#10;D:/Sohail Data/Mehran/YoutubeSample&#10;D:/Sohail Data/Mehran&#10;D:/Sohail Data/Mehran/AbsWorkOut&#10;D:/Sohail Data/Mehran/Fast Battery Charger&#10;D:/Sohail Data/Mehran/dailyWorkoutAppAdmob&#10;D:/androidworkstudio/MaterialSample&#10;D:/androidworkstudio/Android-Material-Design-for-pre-Lollipop-master&#10;C:/Users/pakistan/Downloads/Compressed/Android-Material-Design-for-pre-Lollipop-master/Android-Material-Design-for-pre-Lollipop-master/MaterialSample&#10;C:/Users/pakistan/Downloads/Compressed/Android-Material-Design-for-pre-Lollipop-master/Android-Material-Design-for-pre-Lollipop-master&#10;D:/ud845-Pets-lesson-two&#10;D:/ud845-Pets-starting-point&#10;D:/androidworkstudio/sohail&#10;C:/Users/pakistan/Downloads/Compressed/ud839_CustomAdapter_Example-master&#10;C:/Users/pakistan/Downloads/Compressed/Miwok-Starter/Miwok-Starter" />
+    <property name="MobileminApi" value="21" />
+    <property name="lastTip" value="128" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.SPLIT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.TOOL_ORDER" value="PALETTE,COMPONENT_TREE,PROPERTIES" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.TOOL_ORDER" value="PALETTE,PROPERTIES,COMPONENT_TREE" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Preview.PALETTE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.Preview.PALETTE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Preview.PALETTE.AUTO_HIDE" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.Preview.PALETTE.AUTO_HIDE" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Preview.TOOL_ORDER" value="PALETTE" />
+    <property name="ATTACHED_TOOL_WINDOW.Preview.TOOL_ORDER" value="PALETTE" />
+    <property name="newly.installed.api.level" value="27" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="true" />
+    <property name="PLUGIN_FILTER" value="ge" />
+    <property name="android.show.prompt.kill.session" value="true" />
+    <property name="com.android.tools.idea.uibuilder.surface.DesignSurface.error.panel.split" value="1.0" />
+    <property name="NlScreenMode" value="BOTH" />
+    <property name="studio.activity.count" value="2" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.RIGHT.WIDTH" value="248" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="AndroidEnableDdms" value="true" />
+    <property name="KEY_GENYMOTION_PATH" value="C:\Program Files\Genymobile\Genymotion" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.LEFT.WIDTH" value="217" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.PALETTE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.COMPONENT_TREE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.COMPONENT_TREE.SPLIT" value="true" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="com.intellij.diagnostic.IdeErrorsDialogactiveTab" value="-1" />
+    <property name="LOG_FILTER_HISTORY" value="service&#10;service st&#10;StepService&#10;serv&#10;tag" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="last.used.gradle.home" value="$APPLICATION_HOME_DIR$/gradle/gradle-4.2.1" />
+    <property name="AndroidInitConfigurator.V5" value="true" />
+    <property name="installed.kotlin.plugin.version" value="1.2.71-release-Studio3.1-1" />
+    <property name="file.gist.reindex.count" value="5371" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Preview.PALETTE.SPLIT" value="false" />
+    <property name="palette.category.width" value="100" />
+    <property name="ATTACHED_TOOL_WINDOW.Preview.LEFT.UNSCALED.WIDTH" value="225" />
+    <property name="ATTACHED_TOOL_WINDOW.Preview.RIGHT.UNSCALED.WIDTH" value="225" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.LEFT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.SPLIT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.AUTO_HIDE" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.SPLIT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.AUTO_HIDE" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.AUTO_HIDE" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.LEFT.UNSCALED.WIDTH" value="225" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.RIGHT.UNSCALED.WIDTH" value="251" />
+    <property name="fileTypeChangedCounter" value="1" />
+    <property name="LayoutCode.optimizeImports" value="false" />
+    <property name="ShowDocumentationInToolWindow" value="false" />
+    <property name="find.popup.splitter" value="0.45714286" />
+    <property name="properties.mode" value="INSPECTOR" />
+    <property name="quick.doc.font.size" value="SMALL" />
+    <property name="DocumentationAutoUpdateEnabled" value="true" />
+    <property name="gradle.runner.text.console_str" value="false" />
+    <property name="MemberChooser.sorted" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.PROPERTIES.SPLIT" value="true" />
+    <property name="ANDROID.PANZOOM_X_POS" value="-2" />
+    <property name="ANDROID.PANZOOM_Y_POS" value="-2" />
+    <property name="last.imported.location" value="D:/ud845-Pets-lesson-two" />
+    <property name="LayoutCode.rearrangeEntries" value="true" />
+    <property name="AndroidPlatformName" value="Android API 25 Platform" />
+    <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="build.toolwindow.Build.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="SAVED_PROJECT_KOTLIN_SUPPORT" value="true" />
+    <property name="kotlin.lastUpdateCheck" value="1539304843560" />
+    <property name="SearchEveryWhereHistory" value="" />
+    <property name="FindSplitterProportion" value="0.24051593" />
+    <property name="inspector.open.textAppearance" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+  </component>
+</application>

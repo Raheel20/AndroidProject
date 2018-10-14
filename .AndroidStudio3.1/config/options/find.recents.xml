@@ -1,0 +1,18 @@
+<application>
+  <component name="FindRecents">
+    <findStrings>
+      <find>o</find>
+      <find>db</find>
+      <find>dbHandler</find>
+      <find>openHelper</find>
+      <find>btn_update</find>
+      <find>callHistoryItemList</find>
+      <find>TABLE</find>
+      <find>zasr</find>
+      <find>price_text_view</find>
+      <find>string_text_view</find>
+      <find>findViewById</find>
+      <find>order_summary_text_view</find>
+    </findStrings>
+  </component>
+</application>

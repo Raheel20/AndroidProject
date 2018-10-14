@@ -1,0 +1,983 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/Desktop/TestProject" />
+        <option value="D:/Raheel Data/Kotlin/Kotlin Projects/CRUD" />
+        <option value="D:/Raheel Data/Kotlin/Kotlin Projects/MusicApp" />
+        <option value="D:/Raheel Data/Kotlin/Kotlin Projects/DatabaseExample" />
+        <option value="D:/ReactNativeWorkstudio/CrossingStudio/android" />
+        <option value="D:/Raheel Data/Kotlin/Kotlin Projects/MusicPlayer" />
+        <option value="D:/Raheel Data/Kotlin/Kotlin Projects/AxiomTaskOne" />
+        <option value="D:/Raheel Data/Kotlin/Kotlin Projects/DinnerDecider" />
+        <option value="D:/AndroidStudioProjects/StepCounter" />
+        <option value="D:/Raheel Data/Kotlin/Kotlin Projects/NewProject" />
+        <option value="D:/Raheel Data/Kotlin/Kotlin Projects" />
+        <option value="D:/Raheel Data/Kotlin/Kotlin Projects/Swoosh" />
+        <option value="$USER_HOME$/Downloads/FacebookLite/FacebookLite_v94.0.0.8.182_apkpure.com_source_from_JADX/android" />
+        <option value="D:/AndroidStudioProjects/TestProjectssss/testRunningServicesBackgroundRelaunched" />
+        <option value="D:/AndroidStudioProjects/ud839_Miwok-Starter-code" />
+        <option value="D:/AndroidStudioProjects/MiwokFragments" />
+        <option value="D:/AndroidStudioProjects/MiwokFrgaments" />
+        <option value="D:/AndroidStudioProjects/RBChatApp" />
+        <option value="D:/AndroidStudioProjects/TestProjectssss/android-pedometer-master" />
+        <option value="D:/androidworkstudio/sohail/MosekaTel" />
+        <option value="D:/AndroidStudioProjects/Graph library/MPAndroidChart-master" />
+        <option value="D:/Sohail Data/Mehran/SimplePedometerStepCounter" />
+        <option value="D:/AndroidStudioProjects/Graph library/GraphExample" />
+        <option value="D:/AndroidStudioProjects" />
+        <option value="D:/Sohail Data/Mehran/StepCounter" />
+        <option value="D:/Sohail Data/Mehran/AbsWorkOut" />
+        <option value="D:/Sohail Data/Mehran" />
+        <option value="D:/Sohail Data/Mehran/Fast Battery Charger" />
+        <option value="D:/Sohail Data/Mehran/dailyWorkoutAppAdmob" />
+        <option value="D:/androidworkstudio/MaterialSample" />
+        <option value="D:/androidworkstudio/Android-Material-Design-for-pre-Lollipop-master" />
+        <option value="$USER_HOME$/Downloads/Compressed/Android-Material-Design-for-pre-Lollipop-master/Android-Material-Design-for-pre-Lollipop-master/MaterialSample" />
+        <option value="$USER_HOME$/Downloads/Compressed/Android-Material-Design-for-pre-Lollipop-master/Android-Material-Design-for-pre-Lollipop-master" />
+        <option value="D:/DesignSample" />
+        <option value="D:/ToDoListApp" />
+        <option value="D:/ud845-Pets-starting-point" />
+        <option value="D:/ud845-Pets-lesson-two" />
+        <option value="D:/androidworkstudio/AnimationApp" />
+        <option value="D:/androidworkstudio/ListDisplay" />
+        <option value="D:/androidworkstudio/DemoLocation" />
+        <option value="D:/androidworkstudio/sohail" />
+        <option value="$USER_HOME$/Downloads/Compressed/ud839_CustomAdapter_Example-master" />
+        <option value="$USER_HOME$/Downloads/Compressed/ud839_Miwok-Starter-code" />
+        <option value="$USER_HOME$/Downloads/Compressed/Miwok-Starter/Miwok-Starter" />
+        <option value="D:/ReactNativeWorkstudio/AwesomeProject/AudioApp" />
+        <option value="D:/ReactNativeWorkstudio/AwesomeProject/android" />
+        <option value="D:/androidworkstudio/CalculatePrice" />
+        <option value="D:/ReactNativeWorkstudio/TutorialProject/android" />
+        <option value="D:/androidworkstudio/JustJava" />
+        <option value="D:/androidworkstudio/MyApplication2" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/Desktop/TestProject" />
+      </list>
+    </option>
+    <option name="lastPath" value="$USER_HOME$/Desktop/TestProject" />
+    <option name="pid" value="" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/Desktop/AndroidTest">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4819257" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1539353418202" />
+              <option name="buildTimestamp" value="1528133456875" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/TestProject">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4819257" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1539359952884" />
+              <option name="buildTimestamp" value="1528133456875" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/Compressed/Android-Material-Design-for-pre-Lollipop-master/Android-Material-Design-for-pre-Lollipop-master">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-171.4408382" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1521025219536" />
+              <option name="buildTimestamp" value="1508519237205" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/Compressed/Android-Material-Design-for-pre-Lollipop-master/Android-Material-Design-for-pre-Lollipop-master/MaterialSample">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-171.4408382" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1521025268183" />
+              <option name="buildTimestamp" value="1508519237205" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/Compressed/Court-Counter-master">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-171.4408382" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1510063880307" />
+              <option name="buildTimestamp" value="1508519279001" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/Compressed/Miwok-Starter/Miwok-Starter">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-171.4408382" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1511480155089" />
+              <option name="buildTimestamp" value="1508519233748" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/Compressed/ud839_CustomAdapter_Example-master">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-171.4408382" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1511652135098" />
+              <option name="buildTimestamp" value="1508519279680" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/Compressed/ud839_Miwok-Starter-code">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-171.4408382" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1511648033722" />
+              <option name="buildTimestamp" value="1508519279680" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/FacebookLite/FacebookLite_v94.0.0.8.182_apkpure.com_source_from_JADX/android">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4720617" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1526996775195" />
+              <option name="buildTimestamp" value="1523654857550" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/AndroidStudioProjects">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-171.4408382" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1522949545261" />
+              <option name="buildTimestamp" value="1508519259600" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/AndroidStudioProjects/Graph library/GraphExample">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-171.4408382" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1522973480079" />
+              <option name="buildTimestamp" value="1508519264718" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/AndroidStudioProjects/Graph library/MPAndroidChart-master">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-171.4408382" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1523195131228" />
+              <option name="buildTimestamp" value="1508519224498" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/AndroidStudioProjects/Miwok">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4720617" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1526307901616" />
+              <option name="buildTimestamp" value="1523654840464" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/AndroidStudioProjects/MiwokAgain">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-171.4408382" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1523532516069" />
+              <option name="buildTimestamp" value="1508519246663" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/AndroidStudioProjects/MiwokFragments">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-171.4408382" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1523534891815" />
+              <option name="buildTimestamp" value="1508519276965" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/AndroidStudioProjects/MiwokFrgaments">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-171.4408382" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1523484753416" />
+              <option name="buildTimestamp" value="1508519231724" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/AndroidStudioProjects/RBChatApp">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-171.4408382" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1523388663126" />
+              <option name="buildTimestamp" value="1508519273904" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/AndroidStudioProjects/StepCounter">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4819257" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1534348812946" />
+              <option name="buildTimestamp" value="1528133443501" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/AndroidStudioProjects/TestProjectssss/DinnerDecider">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4720617" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1526307826816" />
+              <option name="buildTimestamp" value="1523654840464" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/AndroidStudioProjects/TestProjectssss/ProfileApp">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4720617" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1526397614262" />
+              <option name="buildTimestamp" value="1523654863637" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/AndroidStudioProjects/TestProjectssss/android-pedometer-master">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-171.4408382" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1523220697744" />
+              <option name="buildTimestamp" value="1508519249674" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/AndroidStudioProjects/TestProjectssss/testRunningServicesBackgroundRelaunched">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-171.4408382" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1523701438178" />
+              <option name="buildTimestamp" value="1508519231527" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/AndroidStudioProjects/ud839_Miwok-Starter-code">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-171.4408382" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1523534957296" />
+              <option name="buildTimestamp" value="1508519276965" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/DesignSample">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-171.4408382" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1521024009397" />
+              <option name="buildTimestamp" value="1508519237205" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/Raheel Data/Kotlin/Kotlin Projects">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4819257" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1534331411587" />
+              <option name="buildTimestamp" value="1528133443501" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/Raheel Data/Kotlin/Kotlin Projects/AndroidTest">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4819257" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1539305080072" />
+              <option name="buildTimestamp" value="1528133447824" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/Raheel Data/Kotlin/Kotlin Projects/AxiomTask1">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4819257" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1534330256206" />
+              <option name="buildTimestamp" value="1528133443501" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/Raheel Data/Kotlin/Kotlin Projects/AxiomTaskOne">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4819257" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1536938346275" />
+              <option name="buildTimestamp" value="1528133414774" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/Raheel Data/Kotlin/Kotlin Projects/CRUD">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4819257" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1538653282567" />
+              <option name="buildTimestamp" value="1528133455457" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/Raheel Data/Kotlin/Kotlin Projects/DatabaseExample">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4819257" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1538653253364" />
+              <option name="buildTimestamp" value="1528133455457" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/Raheel Data/Kotlin/Kotlin Projects/DinnerDecider">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4819257" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1535646750118" />
+              <option name="buildTimestamp" value="1528133455366" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/Raheel Data/Kotlin/Kotlin Projects/MusicApp">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4819257" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1538652550671" />
+              <option name="buildTimestamp" value="1528133455457" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/Raheel Data/Kotlin/Kotlin Projects/MusicPlayer">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4819257" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1536939073315" />
+              <option name="buildTimestamp" value="1528133414774" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/Raheel Data/Kotlin/Kotlin Projects/NewProject">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4819257" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1534333609052" />
+              <option name="buildTimestamp" value="1528133443501" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/Raheel Data/Kotlin/Kotlin Projects/PetAdopter">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4720617" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1526394348336" />
+              <option name="buildTimestamp" value="1523654863637" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/Raheel Data/Kotlin/Kotlin Projects/Pets Adopter">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4720617" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1526339558258" />
+              <option name="buildTimestamp" value="1523654859906" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/Raheel Data/Kotlin/Kotlin Projects/Spinner">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4720617" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1526388170824" />
+              <option name="buildTimestamp" value="1523654863637" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/Raheel Data/Kotlin/Kotlin Projects/Swoosh">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4720617" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1528339303966" />
+              <option name="buildTimestamp" value="1523654857135" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/ReactNativeWorkstudio/AwesomeProject/AudioApp">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-171.4408382" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1509623238316" />
+              <option name="buildTimestamp" value="1508519221582" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/ReactNativeWorkstudio/AwesomeProject/android">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-162.4069837" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1508845181549" />
+              <option name="buildTimestamp" value="1496689200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/ReactNativeWorkstudio/CrossingStudio/android">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4819257" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1538648733321" />
+              <option name="buildTimestamp" value="1528133455170" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/ReactNativeWorkstudio/TutorialProject/android">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-162.4069837" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1508585879604" />
+              <option name="buildTimestamp" value="1496689200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/Sohail Data/Mehran">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-171.4408382" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1522538638315" />
+              <option name="buildTimestamp" value="1508519255998" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/Sohail Data/Mehran/AbsWorkOut">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-171.4408382" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1522589427827" />
+              <option name="buildTimestamp" value="1508519278336" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/Sohail Data/Mehran/Fast Battery Charger">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-171.4408382" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1521886377176" />
+              <option name="buildTimestamp" value="1508519267278" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/Sohail Data/Mehran/SimplePedometerStepCounter">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-171.4408382" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1523194866653" />
+              <option name="buildTimestamp" value="1508519248284" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/Sohail Data/Mehran/StepCounter">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-171.4408382" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1522794870071" />
+              <option name="buildTimestamp" value="1508519252654" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/Sohail Data/Mehran/YoutubeSample">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-171.4408382" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1522878877728" />
+              <option name="buildTimestamp" value="1508519224448" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/Sohail Data/Mehran/dailyWorkoutAppAdmob">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-171.4408382" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1521811140394" />
+              <option name="buildTimestamp" value="1508519222655" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/ToDoListApp">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-171.4408382" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1520978669995" />
+              <option name="buildTimestamp" value="1508519265444" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/androidworkstudio/Android-Material-Design-for-pre-Lollipop-master">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-171.4408382" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1521027182747" />
+              <option name="buildTimestamp" value="1508519237205" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/androidworkstudio/AnimationApp">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-171.4408382" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1517954348786" />
+              <option name="buildTimestamp" value="1508519242864" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/androidworkstudio/CalculatePrice">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-162.4069837" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1508593877493" />
+              <option name="buildTimestamp" value="1496689200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/androidworkstudio/CourtCounter">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-162.4069837" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1506328311598" />
+              <option name="buildTimestamp" value="1496732400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/androidworkstudio/CourtCounter2">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-162.4069837" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1506552088897" />
+              <option name="buildTimestamp" value="1496732400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/androidworkstudio/DataStorageApp">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-171.4408382" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1517881002602" />
+              <option name="buildTimestamp" value="1508519253799" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/androidworkstudio/Demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-162.4069837" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1506676456170" />
+              <option name="buildTimestamp" value="1496732400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/androidworkstudio/DemoLocation">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-171.4408382" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1511691460756" />
+              <option name="buildTimestamp" value="1508519234535" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/androidworkstudio/Dummy">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-162.4069837" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1506795231803" />
+              <option name="buildTimestamp" value="1496732400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/androidworkstudio/FoodSQLite">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-171.4408382" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1509230713178" />
+              <option name="buildTimestamp" value="1508519263194" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/androidworkstudio/JustJava">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-162.4069837" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1508017174272" />
+              <option name="buildTimestamp" value="1496732400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/androidworkstudio/ListDisplay">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-171.4408382" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1511826114552" />
+              <option name="buildTimestamp" value="1508519237329" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/androidworkstudio/LoginDemo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-171.4408382" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1523298632908" />
+              <option name="buildTimestamp" value="1508519266845" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/androidworkstudio/MaterialSample">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-171.4408382" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1521027274263" />
+              <option name="buildTimestamp" value="1508519237205" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/androidworkstudio/MiwokAgainAgain">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-171.4408382" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1517571924652" />
+              <option name="buildTimestamp" value="1508519274057" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/androidworkstudio/MosekaTel">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-162.4069837" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1506893140535" />
+              <option name="buildTimestamp" value="1496732400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/androidworkstudio/MyApplication2">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-162.4069837" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1507369386360" />
+              <option name="buildTimestamp" value="1496732400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/androidworkstudio/MyFragments">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-171.4408382" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1511820842663" />
+              <option name="buildTimestamp" value="1508519237329" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/androidworkstudio/PetAdopterApp">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-171.4408382" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1517952041362" />
+              <option name="buildTimestamp" value="1508519242864" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/androidworkstudio/PetAdopterApp2">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-171.4408382" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1521811802505" />
+              <option name="buildTimestamp" value="1508519222655" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/androidworkstudio/PetsApp">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-171.4408382" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1510067039503" />
+              <option name="buildTimestamp" value="1508519279001" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/androidworkstudio/PracticeSet2">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-162.4069837" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1506364207589" />
+              <option name="buildTimestamp" value="1496732400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/androidworkstudio/RegLoginApp">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-162.4069837" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1506746012514" />
+              <option name="buildTimestamp" value="1496732400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/androidworkstudio/SQLiteRegLogin">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-162.4069837" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1507111801537" />
+              <option name="buildTimestamp" value="1496732400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/androidworkstudio/SarangandErum">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-162.4069837" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1506395897757" />
+              <option name="buildTimestamp" value="1496732400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/androidworkstudio/SarangandErum2">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-162.4069837" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1506422894152" />
+              <option name="buildTimestamp" value="1496732400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/androidworkstudio/SetPractice2">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-162.4069837" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1506209455024" />
+              <option name="buildTimestamp" value="1496732400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/androidworkstudio/SimpleCrud">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-162.4069837" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1508620725105" />
+              <option name="buildTimestamp" value="1496689200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/androidworkstudio/Sunshine">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-162.4069837" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1506205351626" />
+              <option name="buildTimestamp" value="1496732400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/androidworkstudio/sohail">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-171.4408382" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1511691281296" />
+              <option name="buildTimestamp" value="1508519234535" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/androidworkstudio/sohail/MosekaTel">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-171.4408382" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1523198656880" />
+              <option name="buildTimestamp" value="1508519256933" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/ud845-Pets-lesson-two">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-171.4408382" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1518259000858" />
+              <option name="buildTimestamp" value="1508519238686" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/ud845-Pets-starting-point">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-171.4408382" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1520888462470" />
+              <option name="buildTimestamp" value="1508519277641" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/Desktop" />
+  </component>
+</application>
